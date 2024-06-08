@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: hoang
+Build-Jdk: 17.0.9
+Implementation-Title: Javaweb28 Maven Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: vn.java
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+
